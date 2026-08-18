@@ -1,0 +1,4 @@
+interface:
+  display_name: "飞书机器人创建与 @ 响应"
+  short_description: "创建、发布和部署支持消息卡片与群聊 @ 响应的飞书机器人"
+  default_prompt: "Use $feishu-build-bot to create and deploy a Feishu bot with scheduled cards and group mention responses."
